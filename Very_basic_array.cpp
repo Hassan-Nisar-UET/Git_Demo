@@ -13,6 +13,6 @@ int main(){
     }
      cout<<"sum"<<sum<<endl;
     avg=sum/5;
-    cout<<"average.."<<avg<<endl;
+    cout<<"The average of the numbers is.."<<avg<<endl;
 
 }
